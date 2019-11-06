@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Things\Scripts\R3.cs">
+    <Files>
+      <File FileName="Assets\Things\Scripts\DataCheck.cs" Line="1" Column="1" />
+      <File FileName="Assets\Things\Scripts\DestroyObjects.cs" Line="5" Column="44" />
+      <File FileName="Assets\Things\Scripts\Reprod2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Things\Scripts\R1.cs" Line="19" Column="12" />
+      <File FileName="Assets\Things\Scripts\foodAppear.cs" Line="1" Column="1" />
+      <File FileName="Assets\Things\Scripts\R3.cs" Line="29" Column="3" />
+      <File FileName="Assets\Things\Scripts\R3Version2.cs" Line="18" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
